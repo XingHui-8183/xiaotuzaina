@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="iocn.png" width="120" height="120" alt="小土去哪" />
+<img src="icon.webp" width="120" height="120" alt="小土去哪" />
 
 <br>
 
