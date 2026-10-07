@@ -78,7 +78,12 @@ _带着小土，记录每一次旅行的足迹_
 星尘（Stardust）相关素材版权归其所属方所有。
 
 ---
+## 🔗 鸣谢
 
+
+感谢星尘粉丝站 提共的项目启发与参考 https://stardustinfinity.top 。
+
+---
 <div align="center">
 
 _✨ 带着小土，去旅行 ✨_
