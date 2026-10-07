@@ -11,7 +11,7 @@ _带着小土，记录每一次旅行的足迹_
 <br>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/version-2.1.2-bluev)
+![Version](https://img.shields.io/badge/version-2.3.2-bluev)
 
 <br>
 
