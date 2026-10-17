@@ -11,7 +11,8 @@ _带着小土，记录每一次旅行的足迹_
 <br>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/version-2.3.2-bluev)
+![Platform](https://img.shields.io/badge/Platform-iOS-000000?logo=apple&logoColor=white)
+![Version](https://img.shields.io/badge/version-2.4.0-bluev)
 
 <br>
 
@@ -40,6 +41,8 @@ _带着小土，记录每一次旅行的足迹_
 | 📍 地图足迹 | 高德地图展示所有打卡点，点击查看大图 |
 | 🔒 隐私保护 | 坐标随机偏移，地址自动脱敏，无需注册账号 |
 | 🖼️ 更多打卡棒 | 打卡棒子资源热更新 无需重新安装 |
+| 🎯 对焦曝光 | 点击画面对焦，拖动太阳图标调亮 / 调暗 |
+| 🔄 断网重传 | 弱网上传失败，足迹页一键重新上传打卡不丢失 |
 ---
 
 ## 🗺️ 页面导览
@@ -59,21 +62,26 @@ _带着小土，记录每一次旅行的足迹_
 | 项目 | 值 |
 |------|-----|
 | 应用名称 | 小土去哪 |
-| 版本 | 2.1.2 |
-| 平台 | Android 7.0+ |
+| 版本 | 2.4.0 |
+| 平台 | Android 7.0+ / iOS（兼容版） |
 | 屏幕方向 | 竖屏 |
 
 ---
 
 ## 📦 下载
 
-请在 [Releases](../../releases) 页面下载最新版 APK。
+请在 [Releases](../../releases) 页面下载最新版本：
+
+- **Android**：下载 `.apk` 直接安装（Android 7.0+）
+- **iOS**：下载 `.ipa`，iOS 为兼容版本，**需要用户自行签名安装**（如使用 i4 助手结合自己的 Apple ID 签名；免费签名有效期 7 天，到期用同一 .ipa 重新签名即可）
 
 ---
 
 ## 📄 说明
 
 本项目为个人爱好项目，仅用于个人使用与学习交流。
+
+**iOS 为兼容版本，需要用户自行签名安装，本软件不对功能做任何保证。**
 
 星尘（Stardust）相关素材版权归其所属方所有。
 
