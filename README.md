@@ -12,7 +12,7 @@ _带着小土，记录每一次旅行的足迹_
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-iOS-000000?logo=apple&logoColor=white)
-![Version](https://img.shields.io/badge/version-2.4.0-bluev)
+![Version](https://img.shields.io/badge/version-2.5.0-bluev)
 
 <br>
 
@@ -62,7 +62,7 @@ _带着小土，记录每一次旅行的足迹_
 | 项目 | 值 |
 |------|-----|
 | 应用名称 | 小土去哪 |
-| 版本 | 2.4.0 |
+| 版本 | 2.5.0 |
 | 平台 | Android 7.0+ / iOS（兼容版） |
 | 屏幕方向 | 竖屏 |
 
